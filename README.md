@@ -1,1 +1,2 @@
-# zynl.digital this is just my personal simple page
+#
+Nothing here. Just a personal page.
